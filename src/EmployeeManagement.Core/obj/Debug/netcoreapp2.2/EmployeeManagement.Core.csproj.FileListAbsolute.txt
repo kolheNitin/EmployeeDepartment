@@ -1,0 +1,9 @@
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\bin\Debug\netcoreapp2.2\EmployeeManagement.Core.deps.json
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\bin\Debug\netcoreapp2.2\EmployeeManagement.Core.dll
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\bin\Debug\netcoreapp2.2\EmployeeManagement.Core.pdb
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\obj\Debug\netcoreapp2.2\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\obj\Debug\netcoreapp2.2\EmployeeManagement.Core.AssemblyInfoInputs.cache
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\obj\Debug\netcoreapp2.2\EmployeeManagement.Core.AssemblyInfo.cs
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\obj\Debug\netcoreapp2.2\EmployeeManagement.Core.dll
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\obj\Debug\netcoreapp2.2\EmployeeManagement.Core.pdb
+D:\Projects\EmployeeManagement\4.8.0\aspnet-core\src\EmployeeManagement.Core\obj\Debug\netcoreapp2.2\EmployeeManagement.Core.csprojAssemblyReference.cache
